@@ -1,0 +1,18 @@
+body{
+    width: 300px;
+    height: fit-content;
+    background-color: white;
+    margin: auto;
+}
+p{
+    border: 5px solid rgb(192, 169, 149);
+    color: rgb(20, 20, 20);
+    padding: 10px;
+}
+
+div{
+    color: rgb(103, 102, 102);
+    width: fit-content;
+    margin: auto;
+    padding: 2px;
+}
